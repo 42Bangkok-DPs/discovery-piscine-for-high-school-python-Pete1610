@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 int1 = input(("Enter the first number: "))
 int2 = input(("Enter the second number: "))
 answer = (int(int1) * int(int2))
