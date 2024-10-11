@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number = input("Give me a number: ")
 
 # Check if the input can be an integer
