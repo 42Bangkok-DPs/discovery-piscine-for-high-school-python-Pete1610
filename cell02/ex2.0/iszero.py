@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number = input("Pick your number: ")
 if number == "0":
     print("This number is equal zero!")
