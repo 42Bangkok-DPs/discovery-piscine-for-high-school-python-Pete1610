@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number = input("Input your number: ")
 if int(number) > 0:
     print("this number is positive")
