@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #ex1.1
 first_name = "Rapeephat"
 last_name = "Sagulrukpukdee"
