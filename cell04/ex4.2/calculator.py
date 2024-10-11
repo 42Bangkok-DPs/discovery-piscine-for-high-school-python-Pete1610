@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Get the first number
 first_number = float(input("Give me the first number: "))
 
